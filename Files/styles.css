@@ -1,0 +1,53 @@
+h1 {
+  color: red
+}
+
+.header img {
+  float: left;
+  width: 0px;
+  height: 0px;
+  left : 0px;
+  top: 0px;
+}
+
+.header h1 {
+  position: relative;
+  top: 30px;
+  left: 0px;
+  color: black;
+  /* Ask Color Option for Appa */
+  font-size: 150%;
+  font-family: 'Hahmlet', serif;
+}
+
+body {
+  background-color: white;
+}
+
+.nav {
+  background-color: white;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.nav a {
+  float: left;
+  color: purple;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+}
+
+/* Change the color of links on hover */
+.nav a:hover {
+  background-color: yellow;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.nav a.active {
+  background-color: #954535;
+  color: pink;
+}
