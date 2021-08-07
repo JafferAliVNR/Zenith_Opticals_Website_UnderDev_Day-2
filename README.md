@@ -4,6 +4,6 @@ Asked Opinion from Friends and Changed the layout
 
 Added Reading Glasses and Sunglasses in Navigation Bar
 
-Fully Coded by Sheik
+Copyrighted by Sheik Ahamed Iqbal
 
-Copyrighted by Sheik
+Fully Coded by Sheik
